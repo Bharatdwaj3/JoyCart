@@ -8,10 +8,7 @@
   <img alt="Contributions" src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge">
   <img alt="Project Status" src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge">
 </p>
-<!-- 
-  **Note:** These are static placeholder badges. Replace them with your project's actual badges.
-  You can generate your own at https://shields.io
--->
+
 
 ## 📋 Table of Contents
 
